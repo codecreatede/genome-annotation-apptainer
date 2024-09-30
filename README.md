@@ -1,4 +1,4 @@
-# genome-annotation-apptainer
+# genome-completeness-apptainer
 
 - post genome assembly apptainer. 
 - genome completeness, phylogenomic profiling search
